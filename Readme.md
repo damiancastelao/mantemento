@@ -1,6 +1,6 @@
 # Gestión de Incidencias
 
-Scripts para la gestión de incidencias en el centro de Formación Profesional.
+Scripts para la gestión de incidencias en el centro de Formación Profesional "Daniel Castelao".
 
 ---
 
